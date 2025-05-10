@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.3",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZoOGxhZ01FOGlRSHA2NG80bEM1alRDWE5LVjVEUkdKWmFLdFdqSkdMMy8xbTFIckxOTVVuNG5xWGhBS25DR0ZYWFhaVzdoVGdtWjAwUytzRGVnKzJxTHYzWmF1RkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2ODM3MTkwCWZpbGU6Y3VyYW5leHRnZW4tY29uc3VsdG9yaW9fMC4xLjFfeDY0X2VuLVVTLm1zaQpuUVRlOUg3VzRMTDlNT3NLZW01b2dkeUpvd1M5UHd4ekxtcSt2NFl0S05BZ3JyMnJ5TGVvbXI0cHk0L3JZL0NQSjZxeVRFZjlCN1hiWXZZM1RKdVJCUT09Cg==",
-      "url": "https://github.com/ulopez293/curanextgen-releases/releases/download/v0.1.1/curanextgen-consultorio_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZoOGxhZ01FOG5xcFhsUkdJa2lDNDkyWmhERzB0dkwvOC80OGFaMGN0U2V0QjNoZ0xPN3ZENmN6RW41bXZsUDZDaWZ6N0tUdWZvOFo1dDFubTVkSUQ3UDYxSWU2VlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2ODQxNDU3CWZpbGU6Q3VyYU5leHRHZW5fMC4xLjNfeDY0X2VuLVVTLm1zaQpjWmNiWkpXRE5QNlVuOUN5Sk1KSTAwd2h3OWI4RXQraUtvdjRtc3JsVTh5YkJrNW5MVHFITmlDLzE3Q0RGQlQxblZtNVc0b1JYSEZNeHQ3VjE3UDlCUT09Cg==",
+      "url": "https://github.com/ulopez293/curanextgen-releases/releases/download/v0.1.2/CuraNextGen_0.1.3_x64_en-US.msi"
     }
   }
 }
