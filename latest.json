@@ -1,0 +1,9 @@
+{
+  "version": "0.1.1",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZoOGxhZ01FOGlRSHA2NG80bEM1alRDWE5LVjVEUkdKWmFLdFdqSkdMMy8xbTFIckxOTVVuNG5xWGhBS25DR0ZYWFhaVzdoVGdtWjAwUytzRGVnKzJxTHYzWmF1RkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2ODM3MTkwCWZpbGU6Y3VyYW5leHRnZW4tY29uc3VsdG9yaW9fMC4xLjFfeDY0X2VuLVVTLm1zaQpuUVRlOUg3VzRMTDlNT3NLZW01b2dkeUpvd1M5UHd4ekxtcSt2NFl0S05BZ3JyMnJ5TGVvbXI0cHk0L3JZL0NQSjZxeVRFZjlCN1hiWXZZM1RKdVJCUT09Cg==",
+      "url": "https://github.com/ulopez293/curanextgen-releases/releases/download/v0.1.1/curanextgen-consultorio_x64_en-US.msi"
+    }
+  }
+}
